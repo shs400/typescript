@@ -1,0 +1,26 @@
+{
+  "name": "typescirpt-study",
+  "version": "1.0.0",
+  "description": "\"# typescript\"",
+  "main": "index.js",
+  "scripts": {
+    "dev-watch": "tsc -w",
+    "transpile": "tsc",
+    "tslint-init": "tslint --init",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shs400/typescript.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shs400/typescript/issues"
+  },
+  "homepage": "https://github.com/shs400/typescript#readme",
+  "devDependencies": {
+    "tslint": "^5.8.0",
+    "typescript": "^2.6.2"
+  }
+}
